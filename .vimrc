@@ -38,3 +38,5 @@ set expandtab
 set whichwrap+=<,>,h,l,[,]
 set backspace=indent,eol,start
 set rtp+=~/.local/lib/python2.7/site-packages/powerline/bindings/vim/
+:set hlsearch
+:set incsearch
