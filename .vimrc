@@ -19,6 +19,7 @@ Plugin 'chrisbra/vim-diff-enhanced'
 Plugin 'airblade/vim-gitgutter'
 Plugin 'https://github.com/scrooloose/nerdcommenter.git'
 Plugin 'vim-airline/vim-airline'
+Plugin 'jelera/vim-javascript-syntax'
 
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
