@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/pbathala/apache-cassandra-3.0.3/data/data/apollo/pythia-848dbb40e57a11e58a2627a4b502002c/snapshots/1457479031392-pythia'
+let g:netrw_dirhist_2='/Users/pbathala/apache-cassandra-3.0.3/data/data/apollo/pythia-848dbb40e57a11e58a2627a4b502002c'
+let g:netrw_dirhist_3='/Users/pbathala/apache-cassandra-3.0.3/data/data/apollo/pythia-848dbb40e57a11e58a2627a4b502002c/snapshots'
+let g:netrw_dirhist_4='/Users/pbathala/apache-cassandra-3.0.3/data/data/apollo/pythia-848dbb40e57a11e58a2627a4b502002c/snapshots/1457479031392-pythia'
+let g:netrw_dirhist_5='/Users/pbathala/go'
